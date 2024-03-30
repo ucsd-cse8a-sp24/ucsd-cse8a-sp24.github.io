@@ -71,7 +71,7 @@ You will use [Gradescope](http://www.gradescope.com){:target="_blank"} for submi
 
 We will use **Piazza** as our course discussion board.  Please ask all course content related questions via piazza.  Make your post public unless it contains personal information.  This will help you get the fastest response possible to your post. DO NOT POST YOUR CODE as a public post on piazza as it will be considered as an Academic Integrity (AI) violation.
 
-See [Questions page](/staff-and-help.html) for more information on using Piazza.
+See [Questions page](/staff-and-help.html) for more information on using Piazza and other ways to get help in the course.
 
 ## Course Components
 
