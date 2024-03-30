@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 1
-name: Course Intro + Logistics + Hello World
+name: Course Intro
 released-on: "2024-04-01"
 videos:
     - title: "What is CSE 8A?"
