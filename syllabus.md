@@ -288,8 +288,7 @@ Our learning about diverse perspectives and identities is an ongoing process,
 and we welcome your perspectives and input.
 
 We also expect that you, as a student in this course, will honor and respect
-your classmates, abiding by the [UCSD Principles of Community]
-(https://ucsd.edu/about/principles.html){:target="_blank"}.  Please understand that others’
+your classmates, abiding by the [UCSD Principles of Community](https://ucsd.edu/about/principles.html){:target="_blank"}.  Please understand that others’
 backgrounds, perspectives and experiences may be different than your own, and
 help us to build an environment where everyone is respected and feels
 comfortable.
