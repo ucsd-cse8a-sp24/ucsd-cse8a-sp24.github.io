@@ -4,13 +4,11 @@ index: 4
 name: Functions and Input
 released-on: "2024-04-08"
 videos:
-    - title: "Array Lists"
+    - title: "Type Conversions"
       url: 
-    - title: "Array Lists"
+    - title: "Defining Functions"
       url: 
-    - title: "Array Lists"
-      url: 
-    - title: "Array Lists"
+    - title: "Full Program using Functions"
       url: 
 ---
 
@@ -41,4 +39,4 @@ Videos (to watch **before** lecture):
 
 ## Notes & Files from Live-Lecture
 
-[Lecture Notes](https://github.com/ucsd-cse8a-sp24/ucsd-cse8a-sp24.github.io/tree/main/_lectures/lecture-04){:target="_blank"}
+[Lecture Notes](https://drive.google.com/drive/folders/13j3YOhGFOiSrwdFCgTdaj2AzI2OAuGX-?usp=sharing){:target="_blank"}
