@@ -13,8 +13,7 @@ videos:
 _{{ page.released-on }}_
 
 Optional readings (should be completed **before** lecture). You will need to make an account on Stepik to have your work saved.
-- [Stepik 1.1](https://stepik.org/lesson/660933/step/1?unit=658548){:target="_blank"}
-- [Stepik 2.1-2.6](https://stepik.org/lesson/693583/step/1?unit=693185){:target="_blank"}
+- [Stepik 1.1 - 1.5](https://stepik.org/lesson/567165/step/1?unit=561438){:target="_blank"}
 
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
