@@ -219,7 +219,7 @@ For those assignments near the end of the quarter, the deadline for all late/res
 will be Friday of Week 10 at 8am. After the automatic 24-hour extenstion, we will not accept any submissions after that time, for any reason.
 
 <a id="g:exams"></a>
-*** Exams
+### Exams
 
 There will be two in-person exams in this course: a midterm and a final exam. The exam dates are shown below:
 
