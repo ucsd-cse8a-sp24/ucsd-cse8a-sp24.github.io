@@ -50,7 +50,7 @@ We will be using the following freely available online resources
 - *Think Python (2nd Edition)* by Allen B. Downey
 
   Link to pdf version:  [http://greenteapress.com/thinkpython2/thinkpython2.pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf){:target="_blank"}
-  
+
   Link to html version: [http://greenteapress.com/thinkpython2/html/index.html](http://greenteapress.com/thinkpython2/html/index.html){:target="_blank"}
 
 **NOTE**: You need NOT purchase any textbook for this course! Readings will be assigned from the above **FREE ONLINE TEXTBOOKS** and other online sources.
@@ -63,9 +63,15 @@ The course webpage contains basic information, syllabus (that you are reading ri
 
 We will be using [Canvas](http://canvas.ucsd.edu){:target="_blank"} for publishing your grades for this course. The grades you see on canvas are YOUR OFFICIAL GRADE, and it is your responsibility to CHECK THEM REGULARLY to make sure they are recorded correctly.
 
+<h3>Gradescope</h3>
 
+You will use [Gradescope](www.gradescope.com){:target="_blank"} for submitting your programming assignments. We will use Gradescope for grading your PAs and exams. You will be added to our course on Gradescope automatically sometime during week 1.
 
+<h3>Piazza</h3>
 
+We will use **Piazza** as our course discussion board.  Please ask all course content related questions via piazza.  Make your post public unless it contains personal information.  This will help you get the fastest response possible to your post. DO NOT POST YOUR CODE as a public post on piazza as it will be considered as an Academic Integrity (AI) violation.
+
+See [Questions page](/staff-and-help.html) for more information on using Piazza.
 
 
 
