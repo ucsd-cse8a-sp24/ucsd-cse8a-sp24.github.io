@@ -5,6 +5,6 @@ name: PA1
 released-on: "2024-04-03"
 ---
 
-# CSE 12 Programming Assignment 1
+# CSE 8A Programming Assignment 1
 
 Coming soon...
