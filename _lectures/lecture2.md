@@ -5,13 +5,15 @@ name: Lecture: Expressions, Data Types, Variables, and Errors
 released-on: "2024-04-03"
 videos:
     - title: "Expressions"
-      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
+      url: https://drive.google.com/file/d/1fzOCFExdF3X21ZtVoIubylDAv2Gtxbqz
+    - title: "Order of Operations"
+      url: https://drive.google.com/file/d/1g50UHQM7P2zqiL2tiJSgKt3eRJ9ju2Ex
     - title: "Numeric Data Types"
-      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
+      url: https://drive.google.com/file/d/1g5LnGI_LP3W5EEox2BSba5hhnX6LxZn3
     - title: "Variables"
-      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
+      url: https://drive.google.com/file/d/1fhF2CtJIF-C8JM5lOF1MHP0e-QGY2Bgr
     - title: "Strings"
-      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
+      url: https://drive.google.com/file/d/1g-QKamqCarkO0IDFHRT5ful6-gPYPPa-
 ---
 
 ## Problem Session 2 – Expressions, Data Types, Variables, and Errors
