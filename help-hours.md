@@ -31,7 +31,7 @@ You can get remote help from anywhere as long as you have a stable internet conn
 
 Then follow the steps in the tutoring procedures document for submitting a ticket.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_0c361e5ec66b0641864db12d3f8f33e11d80b584116fbc59dc215937edd7cfdd%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_b4ee250c6237ba4e2243068c4d47e90df9edc2f1a388988b82acff01841cee4d%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-person Help
 
@@ -42,7 +42,7 @@ Then follow the steps in the tutoring procedures document for submitting a ticke
 Check on this calendar for our *in-person* availability (also available on the general calendar
 page):
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_791ab55c8895162fe646d3e1bae9f3f7d02bda00a0d032ddb0c8ac488c8d59b1%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_f66832624145acda017ca6919e26af433f0b7daf93147d83325c949d1817aa76%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 #### More information on finding the in-person labs:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13402.475705970317!2d-117.2335235!3d32.8818006!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa7dc3be7597d4d47!2sComputer%20Science%20and%20Engineering%20Building!5e0!3m2!1sen!2sus!4v1632176178912!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
@@ -74,5 +74,4 @@ Instructors for this course:
 The friendly faces of this course! We have 14 staff members (instructors, TAs, and tutors) here 
 to support you and help with your learning.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmHAHrMBNLdAc2_VzBfxDdtIAI4ZKpUodnS26F-aBxa03yUs4NA7EvrT0vKT7t7gjdmI86jDEot3-a/pubhtml?gid=0&single=true&amp;widget=true&amp;headers=false" width="100%" height="700px"></iframe>
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMhsKwNeZKAXo4d4AKZokG02Sg3WgKgbFj8M1zR95kT-iGSJGIvPUfEtSYUSCfdlz04KCIvpcLt42k/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700px"></iframe>
