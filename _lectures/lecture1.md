@@ -5,9 +5,9 @@ name: Course Intro
 released-on: "2024-04-01"
 videos:
     - title: "What is CSE 8A?"
-      url: https://drive.google.com/file/d/1dTXFLjJ22hrm14pND1DrULQsJlyM10WY/view?usp=drive_link
+      url: https://drive.google.com/file/d/1dTXFLjJ22hrm14pND1DrULQsJlyM10WY
     - title: "Hello World"
-      url: https://drive.google.com/file/d/1dEIJ6ZKpUKt63n8FvCGioKYyr6lI8TrK/view?usp=drive_link
+      url: https://drive.google.com/file/d/1dEIJ6ZKpUKt63n8FvCGioKYyr6lI8TrK
 ---
 
 ## Problem Session 1 – Course Intro + Logistics + Hello World
