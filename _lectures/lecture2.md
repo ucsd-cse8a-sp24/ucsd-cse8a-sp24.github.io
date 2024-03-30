@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 2
-name: Lecture: Expressions, Data Types, Variables, and Errors
+name: Lecture: Basics
 released-on: "2024-04-03"
 videos:
     - title: "Expressions"
