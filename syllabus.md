@@ -51,8 +51,11 @@ We will be using the following freely available online resources
 
 **NOTE**: You need NOT purchase any textbook for this course! Readings will be assigned from the above **FREE ONLINE TEXTBOOKS** and other online sources.
 
+<h3>Course Website</h3>
 
+The course webpage contains basic information, syllabus (that you are reading right now!),  schedule (including office/lab hours), materials (notes, slides, etc) and staff contact information. You should check our course website often!
 
+<h3>Canvas</h3>
 
 
 
