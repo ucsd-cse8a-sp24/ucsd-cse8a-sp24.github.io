@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 3
-name: Functions
+name: Using Functions
 released-on: "2024-04-05"
 videos:
     - title: "Strings"
@@ -20,7 +20,6 @@ _{{ page.released-on }}_
 
 Readings (should be completed **before** lecture). 
 - [Stepik 1.3 - 1.5](https://stepik.org/lesson/567165/step/1?unit=561438){:target="_blank"}
-- [ATBS Chapter 1](https://automatetheboringstuff.com/2e/chapter1/){:target="_blank"}
 
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
