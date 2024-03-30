@@ -73,18 +73,6 @@ We will use **Piazza** as our course discussion board.  Please ask all course co
 
 See [Questions page](/staff-and-help.html) for more information on using Piazza.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Course Components
 
 There are a few components to your grade in the course:
