@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 2
-name: Lecture: Basics
+name: Lecture: Variables
 released-on: "2024-04-03"
 videos:
     - title: "Expressions"
@@ -12,8 +12,7 @@ videos:
       url: https://drive.google.com/file/d/1g5LnGI_LP3W5EEox2BSba5hhnX6LxZn3
     - title: "Variables"
       url: https://drive.google.com/file/d/1fhF2CtJIF-C8JM5lOF1MHP0e-QGY2Bgr
-    - title: "Strings"
-      url: https://drive.google.com/file/d/1g-QKamqCarkO0IDFHRT5ful6-gPYPPa-
+
 ---
 
 ## Problem Session 2 – Expressions, Data Types, Variables, and Errors
