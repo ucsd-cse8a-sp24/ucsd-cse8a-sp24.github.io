@@ -65,7 +65,7 @@ We will be using [Canvas](http://canvas.ucsd.edu){:target="_blank"} for publishi
 
 <h3>Gradescope</h3>
 
-You will use [Gradescope](www.gradescope.com){:target="_blank"} for submitting your programming assignments. We will use Gradescope for grading your PAs and exams. You will be added to our course on Gradescope automatically sometime during week 1.
+You will use [Gradescope](http://www.gradescope.com){:target="_blank"} for submitting your programming assignments. We will use Gradescope for grading your PAs and exams. You will be added to our course on Gradescope automatically sometime during week 1.
 
 <h3>Piazza</h3>
 
