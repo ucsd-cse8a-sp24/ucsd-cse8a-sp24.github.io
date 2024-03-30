@@ -60,6 +60,7 @@ The course webpage contains basic information, syllabus (that you are reading ri
 
 <h3>Canvas</h3>
 
+We will be using [Canvas](http://canvas.ucsd.edu){:target="_blank"} for publishing your grades for this course. The grades you see on canvas are YOUR OFFICIAL GRADE, and it is your responsibility to CHECK THEM REGULARLY to make sure they are recorded correctly.
 
 
 
