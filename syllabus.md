@@ -9,25 +9,31 @@ doodle: "/doodle.png"
 
 _Greg Miranda_
 
-This course focuses on two main topics: The basics of organizing data for
-efficient computation, and the design of programs that use collections,
-classes, and interfaces.
-
-Each week, we will explore topics in these areas interactively during lectures.
-You will read beyond what we explore in lecture, complete programming
-assignments to hone your coding and program design skills, and take exams that
-test your understanding of what you've learned. After, you'll be better at
-designing and understanding programs and the structure of data they work
-over.
-
 This web page serves as the main source of announcements and resources for the
 course, as well as the syllabus.
 
-On an average week in CSE12, you can expect to spend 4-6 hours on videos,
-reading, lecture, and discussion; 2-3 hours on programming practice; and 4-6
-hours working on your programming projects. If you find yourself spending
-dramatically more time than this, it's a good idea to contact the course staff
-and discuss more efficient strategies in office hours.
+## Course description
+
+Welcome to CSE 8A! We are excited to have you in this course. In this class, our goal is to help you experience the thrill of getting a computer to solve a problem of your choosing – by expressing that solution in a programming language. In this course you will do interactive in-class exercises and programming assignments to help you master the basics of computational problem solving and programming.
+
+## Prerequisites
+
+CSE 8A is designed for students with no prior programming experience.   We do not expect you to have any prior programming experience, just a willingness to learn.
+
+## Learning outcomes
+
+Students who successfully complete CSE 8A will be able to:
+- Read a computational problem and formulate an algorithm to solve that problem
+- Describe the functionality of a program that you or someone else has written 
+- Write simple Python programs using variables, functions, conditional statements, and loops
+- Store data in a  program using data structures like lists, tuples, and dictionaries
+- Use memory models to trace the state of data during a program’s execution
+- Debug and test Python programs that you or someone else has written
+- Describe ways in which computer science plays a role in society and in other scientific disciplines 
+
+
+
+
 
 ## Course Components
 
