@@ -11,7 +11,9 @@ learning, and a few different ways to get in touch and ask for help.
 Quick links:
 
 - [Course FAQs (includes waitlist FAQs)](#faq)
-- Piazza Message Board: [https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home](https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home){:target="_blank"}
+- Piazza Message Board: [https://piazza.com/ucsd/spring2024/cse8a_sp24_a00/home
+](https://piazza.com/ucsd/spring2024/cse8a_sp24_a00/home
+){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
 - Tutoring Procedures: [https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing](https://docs.google.com/document/d/1mnOIYC6XQ6J0OWPsuMIWT5I6KG6Zy_I6n_0oqxIA9rs/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
@@ -27,9 +29,7 @@ address (but any course related questions should ideally be through Piazza).
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home
-](https://piazza.com/ucsd/spring2024/cse12_sp24_b00/home
-){:target="_blank"}
+[https://piazza.com/ucsd/spring2024/cse8a_sp24_a00/home](https://piazza.com/ucsd/spring2024/cse8a_sp24_a00/home){:target="_blank"}
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
@@ -76,14 +76,6 @@ will see through the registration system.
 There is some useful advice at [Enrolling in CSE
 Courses](https://cse.ucsd.edu/undergraduate/courses/enrolling-cse-courses){:target="_blank"} that
 likely summarizes a lot of what they would tell you to get you started.
-
-**What's the course material like?**
-
-You can see a [previous version of the
-course](https://ucsd-cse12-sp23.github.io/){:target="_blank"}, which will give you a sense. This
-offering will not be identical, but will be similar.
-
-There is no required textbook for you to purchase for the course. The course uses a combination of online resources and notes from the instructors.
 
 **Can I audit the course?**
 
