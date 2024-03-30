@@ -1,14 +1,20 @@
 ---
 layout: with-sidebar
 index: 2
-name: Testing/Review
+name: Lecture: Expressions, Data Types, Variables, and Errors
 released-on: "2024-04-03"
 videos:
-    - title: "Testing/Review"
+    - title: "Expressions"
+      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
+    - title: "Numeric Data Types"
+      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
+    - title: "Variables"
+      url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
+    - title: "Strings"
       url: https://drive.google.com/file/d/1ilj1cWlGSgQchzY0tAHP2kNp9AjSx_wR
 ---
 
-## Problem Session 2 – Testing/Review
+## Problem Session 2 – Expressions, Data Types, Variables, and Errors
 
 _{{ page.released-on }}_
 
