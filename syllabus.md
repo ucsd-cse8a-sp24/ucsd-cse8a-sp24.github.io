@@ -87,7 +87,7 @@ There are a few components to your grade in the course:
 
 Letter grades will be assigned based on the following grading scale:
 
-![Grades](grades.png){:width="400px"}
+![Grades](grades.png){:width="100%"}
 
 We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
