@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 2
-name: Lecture: Variables
+name: Numbers and Variables
 released-on: "2024-04-03"
 videos:
     - title: "Expressions"
