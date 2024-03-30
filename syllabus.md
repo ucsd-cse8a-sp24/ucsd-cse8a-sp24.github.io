@@ -243,29 +243,26 @@ on taking the course in a different quarter.
 
 ### Academic Integrity
 
-Individual assignments will describe their academic integrity requirements. You
-should pay attention to the descriptions of what collaboration is allowed and
-expected on each assignment.
+We encourage you to study together and discuss concepts from this class, but all PAs must be written only by collaborating with your partner or completely independently. You should not collaborate with anyone on your reading quizzes and exams. If you are found cheating, you will receive an **automatic F in the course**, and you may face even stricter sanctions from the University. In short, **do not cheat!**
 
-One challenge we face as an instructional team is verifying that students are
-submitting their own work given the number of remote and asynchronous options we
-provide. In the past, we relied on in-person, ID-checked exams to mitigate this
-particular challenge to academic integrity. Assignments and exams will come with
-specific policies for what types of collaboration is allowed, but we have one
-course-wide policy – we may reach out to students to schedule a check-in on
-their understanding of work they've submitted if we're suspicious about an
-academic integrity violation.  This would involve a video conference with a TA or
-instructor to check that the student has the understanding demonstrated by their
-work. This is in addition to any video screencasts that are submitted as a part
-of the exam.
+The basic rule for CSE 8A is: Work hard. Start early. Make use of the expertise of our amazing CSE 8A staff to learn what you need to know to really do well in the course. **Don't cheat**.
 
-We don't expect to use this option much (certainly **you** are a student that
-acts with integrity!), but we state it clearly in the syllabus in case it
-becomes necessary so it isn't a surprise to anyone.
+If you do cheat, we will enforce the [UCSD Policy on Integrity of Scholarship](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2){:target="_blank"}. This means: You will get an **F in the course**, and the Dean of your college will put you on **probation**, **suspend** you or **dismiss** you from UCSD.
 
-You should be familiar with [the UCSD
-guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2){:target="_blank"}
-on academic integrity as well.
+<h4>What counts as cheating?</h4>
+In CSE 8A, you can read books, surf the web, talk to your friends and the CSE 8A staff to get help understanding the concepts you need to know to solve your PA problems. However, you must write your program only with your partner if you are pair programming or on your own if you are working alone.
+
+In CSE 8A, using or even looking at program code or the write up of algorithms that someone else has written (unless it was explicitly provided as part of the assignment), or providing program code or detailed algorithms to someone else, or turning in code that you have written with someone else other than your partner, is considered cheating. Yes, we do electronically check every program that is turned in. In recent quarters, we also found out that people unintentionally post their codes on public github repos and it is a violation of the AI policy! We report all these cases to the academic integrity office.
+
+Receiving a grade on a PA doesn't mean that you have passed the plagiarism checking. We can report cheating cases any time during the quarter, even after we submit your final letter grade. So the safest bet is not to cheat!
+
+<h4>How can I be sure that my actions are NOT considered cheating?</h4>
+To ensure you don't have a problem with this, here are some suggestions: 
+- Don't share your code with anyone else in the class except your partner if you are pair programming.
+- Don't start with someone else's code and make changes to it.
+- Don't discuss anything code related with any other students in the class (except your pair programming partner).
+
+In CSE 8A, you must write your own answers on the review quizzes and exams. **Getting quiz or exam answers from someone else, or providing answers to someone else, is cheating**. Failing to follow this policy will result in an F for this course.
 
 ### Regrades
 
