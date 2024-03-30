@@ -148,7 +148,7 @@ will not be given retroactively.
 
 Every week, there will be a mandatory 1 hour lab session. There will be a lab assignment that will be due at the end of every lab session. Attendance will be checked. You must attend the lab section you signed up for.
 
-You must score at least 50% (average) on the lab assignments of this course. If you average lower than 50% on the lab assignments, you will receive an F for the course, regardless of your overall average. 
+**You must score at least 50% (average) on the lab assignments of this course. If you average lower than 50% on the lab assignments, you will receive an F for the course, regardless of your overall average.**
 
 ### Stepik Exercises (Textbook) (i.e. Reading Quizzes/RQs)
 
