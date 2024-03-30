@@ -158,27 +158,24 @@ To ensure you get credit for the Stepik exercises, you must fill out this
 [form](https://forms.gle/HqPsPyiM1ch5o8zb7){:target="_blank"}
 by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grade updates to Canvas every week.
 
-
-
 <a id="p:programming"></a>
 <h3>Programming Assignments (PAs)</h3>
 
-Most weeks there will be a programming assignment. Direct practice with
-programming will make up the majority of your work in the course.
+Most weeks there will be a programming assignment. Direct practice with programming will make up the majority of your work in the course.
 
 There is an automatic 24-hour extension to submit the PA in Gradescope (in case of internet/technical issues, illness, AFA accomdations, etc.). Just submit your assignment after the deadline (but before 24 hours after the deadline) to automatically use the extension. There is no penalty for using the 24-hour extension. 
 
-You can use the extension for each programming assignment, but we encoruage you to finish
-the assignments before the due date. Learning to complete work before the due date is an 
-essential skill needed in any industry. Start early. Spend at least an hour a day working
-on each assignment instead of waiting until the last minute to start.
+You can use the extension for each programming assignment, but we encoruage you to finish the assignments before the due date. Learning to complete work before the due date is an essential skill needed in any industry. Start early. Spend at least an hour a day working on each assignment instead of waiting until the last minute to start.
 
-It's the student's responsibilty to check that the autograder worked and that all files
-have been properly uploaded (by checking the Code tab). We only accept PAs through
-Gradescope before the 24-hour extension deadline. We will not accept any files 
-through email, Canvas, or Piazza.
+It's the student's responsibilty to check that the autograder worked and that all files have been properly uploaded (by checking the Code tab). We only accept PAs through Gradescope before the 24-hour extension deadline. We will not accept any files through email, Canvas, or Piazza.
 
 Please note that all deadlines for PAs are at 8am.
+
+<h4>Pair Programming on PAs</h4>
+
+We encourage you to work together with a partner using a [Pair Programming approach](https://docs.google.com/document/d/1n7bGUfG6ZztrZosXbmGGeUwjp8oxJM45LbnRH5lISsk/edit?usp=sharing){:target="_blank"}. If you choose to work with a partner using pair programming, you will submit only **ONE** assignment between the two of you and both the partners will receive the same grade. You can have different partners for different programming assignments. You cannot change partners for the same programming assignment. For example, you may partner with one student for PA1 and a different student for PA2 but you should not work with one student for a part of PA1 and with a different student for the rest of PA1. Working with two different partners on the same PA will be considered as an academic integrity violation. 
+
+For details on what is Pair Programming and how it works, read this guide: [Guide on Pair Programming](https://docs.google.com/document/d/1n7bGUfG6ZztrZosXbmGGeUwjp8oxJM45LbnRH5lISsk/edit?usp=sharing){:target="_blank"}. More details about Pair Programming will be shared during the first lecture.
 
 <h4>Grading</h4>
 
