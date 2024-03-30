@@ -297,3 +297,12 @@ If you experience any sort of harassment or discrimination, please contact the
 instructor as soon as possible.   If you prefer to speak with someone outside
 of the course, please contact the Office of Prevention of Harassment and
 Discrimination: [https://ophd.ucsd.edu/](https://ophd.ucsd.edu/){:target="_blank"}.
+
+### Students with Disabilities
+
+We aim to create an environment in which all students can succeed in this course.  If you have a disability, please contact the [Office for Students with Disability (OSD)](https://osd.ucsd.edu/){:target="_blank"}, to discuss appropriate accommodations right away.  We will work to provide you with the accommodations you need, but you must first provide a current **Authorization For Accommodation (AFA)** letter issued by the OSD. You are required to present their AFA letters to faculty (please make arrangements to contact your instructor privately) and to the OSD Liaison in the department in advance so that accommodations may be arranged.
+
+### Basic Needs/Food Insecurities
+
+If you are experiencing any basic needs insecurities (food, housing, financial resources), there are resources available on campus to help, including The Hub and the Triton Food Pantry.  Please visit [http://thehub.ucsd.edu/](http://thehub.ucsd.edu/){:target="_blank"} for more information.
+
