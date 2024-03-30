@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-title: "Lectures and Course Material – CSE12"
+title: "Lectures and Course Material – CSE8A"
 ---
 
 <ul>

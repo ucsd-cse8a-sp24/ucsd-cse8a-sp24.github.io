@@ -1,12 +1,12 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
+title: "UCSD CSE8A – Basic Data Structures and Object-Oriented Design"
 ---
-# UCSD CSE 12 Spring 2024
+# UCSD CSE 8A Spring 2024
 
 ## Meeting with Staff
 
-The main reasons to come see the staff in CSE12 is:
+The main reasons to come see the staff in CSE8A is:
 
 1. You need help on an assignment, 
 2. Reviewing past work

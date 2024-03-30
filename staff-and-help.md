@@ -1,11 +1,11 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
+title: "UCSD CSE8A – Basic Data Structures and Object-Oriented Design"
 ---
-# UCSD CSE 12 Spring 2024
+# UCSD CSE 8A Spring 2024
 ## Asking Questions and Getting Help
 
-There are 14 staff members (instructor, TAs, and tutors) to help with your
+There are 17 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
 Quick links:

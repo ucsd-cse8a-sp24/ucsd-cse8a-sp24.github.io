@@ -1,9 +1,9 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE12 – Basic Data Structures and Object-Oriented Design"
+title: "UCSD CSE8A – Basic Data Structures and Object-Oriented Design"
 ---
 
-# UCSD CSE 12 Spring 2024
+# UCSD CSE 8A Spring 2024
 ## Basic Data Structures and Object-Oriented Design
 
 _Greg Miranda_

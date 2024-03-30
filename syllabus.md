@@ -1,10 +1,10 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE12 Spring 2024"
+title: "Syllabus – UCSD CSE8A Spring 2024"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 12 Spring 2024
+# UCSD CSE 8A Spring 2024
 ## Basic Data Structures and Object-Oriented Design
 
 _Greg Miranda_
