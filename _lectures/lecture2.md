@@ -31,12 +31,8 @@ Videos (to watch **before** lecture):
 
 ## Notes & Files from Pre-Lecture Videos
 
-[Pre-Lecture 2](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/tree/main/_pre-lectures/lecture-02){:target="_blank"}
-
-## Handout
-
-<iframe src="https://drive.google.com/file/d/10v-04XdYlVabMqShRJ5yoN9e8LGtTRbV/preview" width="640" height="480" allow="autoplay"></iframe>
+[Pre-Lecture 2](https://github.com/ucsd-cse8a-sp24/ucsd-cse8a-sp24.github.io/tree/main/_pre-lectures/lecture-02){:target="_blank"}
 
 ## Notes & Files from Live-Lecture
 
-[Lecture Notes](https://github.com/ucsd-cse12-sp24/ucsd-cse12-sp24.github.io/tree/main/_lectures/lecture-02){:target="_blank"}
+[Lecture Notes](https://drive.google.com/drive/folders/12mIYImCEj7QstEc79Ux52pCesBqUdwTL?usp=sharing){:target="_blank"}
