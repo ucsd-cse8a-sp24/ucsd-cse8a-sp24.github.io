@@ -87,7 +87,7 @@ There are a few components to your grade in the course:
 
 Letter grades will be assigned based on the following grading scale:
 
-![Grades](grades.png)
+![Grades](grades.png){:width="400px"}
 
 We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
@@ -211,121 +211,6 @@ before the original deadline.
 
 For those assignments near the end of the quarter, the deadline for all late/resubmissions 
 will be Friday of Week 10 at 8am. After the automatic 24-hour extenstion, we will not accept any submissions after that time, for any reason.
-
-<a id="p:open-closed"></a>
-<h3>Collaboration</h3>
-
-**This is not the same collaboration policy you have seen in your other
-programming courses. Read it carefully.**
-
-In your professional programming life, some of your work will be highly
-collaborative with lots of expert advice available from senior developers and
-from sites like StackOverflow. This is a common case in companies, in
-academia, and on open-source projects. It's a great way to get exposed to new
-techniques, share knowledge, and generally enjoy teamwork. In contrast, some
-of your work will involve figuring out programming problems on your own,
-where you are the first person to encounter an issue, or the first person to
-try using a new library in the context of your application. You should get
-experience in both types of situations; we might call the former kind of
-problem **open to collaboration** and the latter **closed to collaboration**.
-
-In terms of courses, this split also makes sense. Programming assignments
-serve (at least) two roles. First and foremost, they are a mechanism for you
-to learn! By directly applying the techniques and skills we discuss in class,
-you get practice and become a better programmer. Second, they are an
-assessment mechanism – as instructional staff we use them to evaluate your
-understanding of concepts as demonstrated by your programs. Open
-collaboration can reduce frustration while learning and give you chances to
-enjoy collaboration and lots of help, but may not let us accurately evaluate
-your understanding. Closed assignments are an opportunity for
-you to demonstrate what you know by way of programming.
-
-There are two types of assignments in this course, **open** and **closed**:
-
-- **Open** assignments, for which you can talk to anyone else
-  in the course, post snippets of code on Piazza, get lots of help from TAs,
-  and generally come up with solutions collaboratively. TAs will be happy to
-  look at your code and suggest approaches and fixes.
-  
-  There are a few restrictions:
-  - Any code that you didn't write must be cited in the comments at the top of all of your submitted code files.
-
-    **Example:** On an open assignment, you and another
-    student chat online about the solution, you figure out a particular
-    helper method together. Your comment should say “//The FOO function was
-    developed in collaboration with Firstname Lastname”
-
-    **Example:** On an open assignment, a student posts the
-    recursive method calls they used to solve a problem you were
-    struggling with. Your comment should say “//I used the code from
-    https://piazza.com/class/id-of-post”.
-
-    **Example:** You and another student sit next to each other,
-    and point out mistakes and errors to one another as you work through
-    the assignment. As a result, your solutions are substantially similar.
-    Your comment should say “//I collaborated with Firstname Lastname to
-    develop my solution.”
-
-  - You cannot share an entire repository of code or paste an entire solution
-    into Piazza. Keep snippets to reasonable, descriptive chunks of code; think
-    a dozen lines or so to get the point across.
-  - You still _cannot_ use code that you find online (no copying code
-    from StackOverflow or blogs online), or get assistance or code from
-    students outside of this offering of the class. All the code that is
-    handed in should be developed by you or someone in the class.
-  - Using Copilot or ChatGPT is not forbidden, but highly discouraged. These are
-    great tools for experienced programmers, but not very good for learning the
-    material we are trying to teach in this course.
-  - You are responsible for _understanding_ all the code you have written.
-    All of the programming problems on the PAs may show up on exams, where
-    you will need to have a thorough understanding of the PA to answer the
-    questions.
-
-  This doesn't mean the staff will be handing out answers. We'll mostly
-  respond with leading questions and advice, and you shouldn't expect a
-  direct answer to questions like “am I done?” or “is my code right?”
-
-  There is no guarantee the assistance you get from your classmates is
-  correct. It is your responsibility to use your judgment to avoid using an
-  idea on Piazza that is wrong, or doesn't work with your solution; we won't
-  necessarily tell you one way or another while the assignment is out.
-
-  If we see that you used code from other students and didn't cite it at the top
-  of your file, the penalty will range from a point deduction to an academic
-  integrity violation, depending on the severity. Always cite your work!
-
-  Note: collaboration does not mean turning in the same file. Collaboration is
-  different than partners or pair programming. You must still do your own work.
-
-- **Closed** assignments, where you cannot collaborate with others. The closed 
-assignments this quarter are the programming assessments (exams). You cannot ask 
-clarification questions but you can report potential issues as private posts on
-Piazza or to staff members. Staff will not look at your code or comment on it. 
-There will no Lab/office hours during closed exams. These programming assesments
-are take-home exams.
-
-  On closed assignments/assessments:
-    - You cannot look at or use anyone else's code in any way.
-    - You cannot discuss the assignment, even in general terms, with anyone.
-    - You should expect that staff members will politely say “The course
-      policy says I can't help with that” if you ask a question about your
-      algorithm or code.
-    - You cannot post publicly about the assignment on Piazza or elsewhere
-      online.
-    - All of the examples in the open section above would be
-      academic integrity violations.
-
-Programming assignments will explicitly list whether they are open or closed collaboration.
-
-You should be familiar with [the UCSD
-guidelines](http://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2){:target="_blank"}
-on academic integrity as well.
-
-Do not post your PA solutions publicly on any site, including Github. If you fork the Github starter code repos
-and upload your code to the repo, you are required to make the repo private. It is an academic integrity
-violation to publicly post your code. This remains true even after the course is over. If you with to 
-share the code wish an employer in the future, upload the code to Google Drive or Dropbox and share
-the link to the folder.
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
