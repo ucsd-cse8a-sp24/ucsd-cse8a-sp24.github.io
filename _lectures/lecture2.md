@@ -19,7 +19,7 @@ Optional readings (should be completed **before** lecture). You will need to mak
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
 To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday of Week 2 to ensure that they are certified.
-- [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/54785/quizzes/169125){:target="_blank"}
+- [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/54799/quizzes/170078){:target="_blank"}
 
 Videos (to watch **before** lecture):
 
