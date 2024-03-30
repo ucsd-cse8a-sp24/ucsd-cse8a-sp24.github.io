@@ -144,6 +144,12 @@ graded for participation only and not for correctness of the response.
 We will not accept any check-ins after lecture and credit for attendance 
 will not be given retroactively.
 
+<h3>Lab Assignments</h3>
+
+Every week, there will be a mandatory 1 hour lab session. There will be a lab assignment that will be due at the end of every lab session. Attendance will be checked. You must attend the lab section you signed up for.
+
+You must score at least 50% (average) on the lab assignments of this course. If you average lower than 50% on the lab assignments, you will receive an F for the course, regardless of your overall average. 
+
 ### Stepik Exercises (Textbook) (i.e. Reading Quizzes/RQs)
 
 To prepare you for these interactive class sections, there will be reading assignments and exercises to be completed before almost every class session. At the end of each week, there will be a Stepik Exercises, which will be due at 8:00 AM PT (Pacific Time) on Saturdays. 
@@ -159,7 +165,7 @@ To ensure you get credit for the Stepik exercises, you must fill out this
 by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grade updates to Canvas every week.
 
 <a id="p:programming"></a>
-<h3>Programming Assignments (PAs)</h3>
+### Programming Assignments (PAs)
 
 Most weeks there will be a programming assignment. Direct practice with programming will make up the majority of your work in the course.
 
@@ -213,26 +219,20 @@ For those assignments near the end of the quarter, the deadline for all late/res
 will be Friday of Week 10 at 8am. After the automatic 24-hour extenstion, we will not accept any submissions after that time, for any reason.
 
 <a id="g:exams"></a>
-<h3>Exams</h3>
+*** Exams
 
-There will be three in-class exams during the quarter, held during the scheduled lecture time:
-- Week 4 - Wednesday 4/24/2024
-- Week 7 - Wednesday 5/15/2024
-- Week 10 - Wednesday 6/5/2024
+There will be two in-person exams in this course: a midterm and a final exam. The exam dates are shown below:
 
-The final exam will be:
-- Week 11 - Monday 6/10/2024, 8am - 11am, room will be announced in Week 10.
+- Midterm Exam: Friday, May 3rd 2024, during lecture time in lecture room
+- Final Exam: Wednesday, June 1th 2024, 8am - 11am, room will be announced in Week 10.
 
-Seats will be assigned for all exam sessions and announced beforehand, and you must bring your school ID to the exam. All work on exams is to be done on your own, and you are not allowed to use any electronics or study aids during the exam (aside from those needed for University-approved academic accommodations). You may not speak to any other student in the exam room while the exam is in progress (including after you hand in your own exam). You may not share any information about the exam with any student who has not yet taken it (including students in future quarters of CSE12).
+The final exam will be **cumulative** and will cover all topics discussed in the course.
 
-Each in-class exam will each be worth 20% of your final grade. The final exam will be broken into three parts, each corresponding to the material from one of the in-class exams. Your grade for each in-class exam will be the maximum of the in-class score and the score on the corresponding part of the final exam. Note: each part of the final exam is optional if you wish to only use the score of in-class exam for that part.
+**If your final exam score (in percentage) is higher than your midterm score, then your midterm score will be replaced by your final exam score!**
 
-For example:
-- On the three in-class exams you score 75, 0, and 95 (you miss the second). On the final exam you score 80, 75, and 0 on the three parts. Your exam scores are 80, 75, 95, giving you an exam grade of 50% (16% + 15% + 19%).
-- On the three in-class exams you score 95, 93, and 90. You skip the final so your scores are 0, 0, 0. Your exam scores are 95, 93, 90, giving you an exam grade of 55.6% (19% + 18.6% + 18%).
-- On the three in-class exams you score 75, 55, and 60. On the final you score 95, 90, 94. Your exam scores are 95, 90, 94, giving you an exam grade of 55.8% (19% + 18% + 18.8%).
+Seats will be assigned for all exam sessions and announced beforehand, and you must bring your school ID to the exam. All work on exams is to be done on your own, and you are not allowed to use any electronics or study aids during the exam (aside from those needed for University-approved academic accommodations). You may not speak to any other student in the exam room while the exam is in progress (including after you hand in your own exam). You may not share any information about the exam with any student who has not yet taken it (including students in future quarters of CSE8A).
 
-This policy also covers what happens if you miss an in-class exam for any reason. If you are absent for an in-class exam, you get a 0, and then whatever score you get on the final exam for that section will be applied to your exam grade. There are no make-up in-class exams, and the final exam policy is governed by the [university’s policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/){:target="_blank"}.
+If you are absent for the midterm exam, you get a 0, and then whatever score you get on the final exam will be applied to your midterm exam grade. There are no make-ups for exams, and the final exam policy is governed by the [university’s policies](https://senate.ucsd.edu/operating-procedures/educational-policies/courses/epc-policies-on-courses/policy-exams-including-midterms-final-exams-and-religious-accommodations-for-exams/){:target="_blank"}.
 
 The final exam will be in person and paper based. No makeup exams will be conducted! 
 No incompletes will be given. If you are unable to take the final exam at the scheduled time, please plan 
