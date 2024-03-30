@@ -50,6 +50,7 @@ We will be using the following freely available online resources
 - *Think Python (2nd Edition)* by Allen B. Downey
 
   Link to pdf version:  [http://greenteapress.com/thinkpython2/thinkpython2.pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf){:target="_blank"}
+  
   Link to html version: [http://greenteapress.com/thinkpython2/html/index.html](http://greenteapress.com/thinkpython2/html/index.html){:target="_blank"}
 
 **NOTE**: You need NOT purchase any textbook for this course! Readings will be assigned from the above **FREE ONLINE TEXTBOOKS** and other online sources.
