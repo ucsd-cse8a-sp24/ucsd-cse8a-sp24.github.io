@@ -74,4 +74,4 @@ Instructors for this course:
 The friendly faces of this course! We have 14 staff members (instructors, TAs, and tutors) here 
 to support you and help with your learning.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMhsKwNeZKAXo4d4AKZokG02Sg3WgKgbFj8M1zR95kT-iGSJGIvPUfEtSYUSCfdlz04KCIvpcLt42k/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="700px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSMhsKwNeZKAXo4d4AKZokG02Sg3WgKgbFj8M1zR95kT-iGSJGIvPUfEtSYUSCfdlz04KCIvpcLt42k/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="750px"></iframe>
