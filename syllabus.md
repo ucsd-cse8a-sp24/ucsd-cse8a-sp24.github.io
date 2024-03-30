@@ -78,7 +78,11 @@ See [Questions page](/staff-and-help.html) for more information on using Piazza 
 There are a few components to your grade in the course:
 
 - Programming assignments (40%)
-- Exams (60%)
+- Stepik Exercises (i.e. Review Quizzes/RQs): 20% (10 RQs)
+- Lab Assignments: 10%
+- 30% Exams
+  - 10% Midterm Exam
+  - 20% Final Exam
 - Extra Credit: 10% Lecture/Discussion Participation
 
 Letter grades will be assigned based on the following grading scale:
@@ -88,7 +92,7 @@ Letter grades will be assigned based on the following grading scale:
 We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
 that we will not adjust the scale to make it harder to get a better grade. 
-We will not adjust the scale for individual students.  
+We will not adjust the scale for individual students. We will not round grades up. 
 
 <h3>Lectures</h3>
 
@@ -96,11 +100,10 @@ Most course content will be presented asynchronously through videos and readings
 with associated interactive activities which should be completed before lecture. 
 
 Lectures will involve problem solving with your classmates along with an opportunity
-to ask quesitons about the material. Participation is not required at problem-solving sections, 
-but it is highly encouraged.
+to ask quesitons about the material. 
 
 It is very important that students watch all pre-lecture videos as this is the 
-primary way to learn the CSE 12 material. 
+primary way to learn the CSE 8A material. 
 
 **In-person lectures** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
@@ -141,12 +144,21 @@ graded for participation only and not for correctness of the response.
 We will not accept any check-ins after lecture and credit for attendance 
 will not be given retroactively.
 
-### Stepik Exercises (Textbook)
+### Stepik Exercises (Textbook) (i.e. Reading Quizzes/RQs)
 
-Along with each lecture will come some optional pre-lecture work from our 
-[Stepik textbook](https://stepik.org/course/109917/syllabus){:target="_blank"}.
+To prepare you for these interactive class sections, there will be reading assignments and exercises to be completed before almost every class session. At the end of each week, there will be a Stepik Exercises, which will be due at 8:00 AM PT (Pacific Time) on Saturdays. 
 
-The Stepik online texbook records your progress, and we give a schedule of expected times to finish the readings (i.e. they should be completed before the lecture in which they are assigned). There is no penalty for completing these late as they will not be graded, but they are assigned so that you will be prepared to participate in problem solving session and so that you know the expected pace of the course.
+The [Stepik textbook](https://stepik.org/course/100726/syllabus){:target="_blank"} will cover topics from the reading assignments, lecture videos, and lecture discussion. You have to ensure that you do the readings and attend/watch lectures before doing the exercises. You will find a link to the required Stepik chapters for the lecture on the lecture page. 
+
+The Stepik exercises will be on Stepik. You should create a Stepik ID to access the readings and exercises. We will provide a form to capture your Stepik ID (a ~9 digit number that can be found in your Stepik profile). The Stepik exercises must be done individually. There will be 10 RQs in total and you can attempt the Stepik exercises multiple times until you get them correct! 
+
+The online texbook records your progress, and we give a schedule of expected times to finish the readings. There is no penalty for completing these late, but all Stepik exercises must be completed by **Saturday of Week 10 by 8am**. After this time, no late submissions will be accepted, for any reason.
+
+To ensure you get credit for the Stepik exercises, you must fill out this 
+[form](https://forms.gle/HqPsPyiM1ch5o8zb7){:target="_blank"}
+by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grade updates to Canvas every week.
+
+
 
 <a id="p:programming"></a>
 <h3>Programming Assignments (PAs)</h3>
