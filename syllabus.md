@@ -155,7 +155,7 @@ The Stepik exercises will be on Stepik. You should create a Stepik ID to access 
 The online texbook records your progress, and we give a schedule of expected times to finish the readings. There is no penalty for completing these late, but all Stepik exercises must be completed by **Saturday of Week 10 by 8am**. After this time, no late submissions will be accepted, for any reason.
 
 To ensure you get credit for the Stepik exercises, you must fill out this 
-[form](https://forms.gle/HqPsPyiM1ch5o8zb7){:target="_blank"}
+[form](https://forms.gle/qRcsGQtHyZRspZXp9){:target="_blank"}
 by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grade updates to Canvas every week.
 
 <a id="p:programming"></a>
