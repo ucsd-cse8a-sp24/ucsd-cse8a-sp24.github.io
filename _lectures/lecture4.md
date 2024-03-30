@@ -5,11 +5,11 @@ name: Functions and Input
 released-on: "2024-04-08"
 videos:
     - title: "Type Conversions"
-      url: 
+      url: https://drive.google.com/file/d/1tp3Q957cB5-6Hdy2r4GsoDRSflucwGda
     - title: "Defining Functions"
-      url: 
+      url: https://drive.google.com/file/d/1trQuzCBZHZc3eH3ehiNWYdDzHP3ojI-y
     - title: "Full Program using Functions"
-      url: 
+      url: https://drive.google.com/file/d/1tyn2Yt0W1o7d5cYpYxJl6EOGbCKPtBaw
 ---
 
 ## Problem Session 4 – Strings, Using Functions, Getting Input from User
