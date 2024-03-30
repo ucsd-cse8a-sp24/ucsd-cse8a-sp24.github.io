@@ -39,17 +39,17 @@ THERE IS **NO REQUIRED TEXTBOOK** FOR THIS COURSE!
 
 We will be using the following freely available online resources
 
-- Course Textbook (on Stepik)
-  Link: https://stepik.org/course/100726/syllabus 
+- *Course Textbook (on Stepik)*
+  Link: [https://stepik.org/course/100726/syllabus](https://stepik.org/course/100726/syllabus ){:target="_blank"}
 
-- Automate The Boring Stuff With Python by Al Sweigart
-  Link: https://automatetheboringstuff.com/ 
+- *Automate The Boring Stuff With Python* by Al Sweigart
+  Link: [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/){:target="_blank"}
 
-- Think Python (2nd Edition) by Allen B. Downey
-  Link to pdf version:  http://greenteapress.com/thinkpython2/thinkpython2.pdf
-  Link to html version: http://greenteapress.com/thinkpython2/html/index.html 
+- *Think Python (2nd Edition)* by Allen B. Downey
+  Link to pdf version:  [http://greenteapress.com/thinkpython2/thinkpython2.pdf](http://greenteapress.com/thinkpython2/thinkpython2.pdf){:target="_blank"}
+  Link to html version: [http://greenteapress.com/thinkpython2/html/index.html](http://greenteapress.com/thinkpython2/html/index.html){:target="_blank"}
 
-NOTE: You need NOT purchase any textbook for this course! Readings will be assigned from the above FREE ONLINE TEXTBOOKS and other online sources.
+**NOTE**: You need NOT purchase any textbook for this course! Readings will be assigned from the above FREE ONLINE TEXTBOOKS and other online sources.
 
 
 
