@@ -118,7 +118,7 @@ of each lecture to see any annoucements. Not all annoucements are made on Piazza
 <h3>Discussion</h3>
 
 **In-person discussion** will reinforce concepts from class and pracice exam questions. 
-Discussions are also an opporunity to ask questions about the assignments as well as 
+Discussions are also an opportunity to ask questions about the assignments as well as 
 the course material. 
 
 Discussions will also be recorded by podcasting but will not be available remotely while they are ongoing. 
@@ -132,7 +132,7 @@ Attendance for lectures and discussions is not required, but attendance at each 
 0.4% extra credit, up to a maximum of 10% (25 total lectures and/or discussions). Please note that there are 25 lectures and 10 discussions, for 35 opportunities to earn extra credit. 
 
 In each lecture/discussion, we’ll have a paper handout (also available electronically). 
-At the end of lecture/discussion you’ll have a chance submit your handout to Gradescope. 
+At the end of lecture/discussion you’ll have a chance to submit your handout to Gradescope. 
 You can do this by scanning it in the Gradescope app (for iOS and Android) 
 or through the web interface. To get participation credit, you 
 have to submit a handout filled in with the code provided by the instructor/TA.
