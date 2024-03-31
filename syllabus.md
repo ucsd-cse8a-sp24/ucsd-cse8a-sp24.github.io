@@ -77,12 +77,12 @@ See [Questions page](/staff-and-help.html) for more information on using Piazza 
 
 There are a few components to your grade in the course:
 
-- Programming assignments (40%)
-- Stepik Exercises (i.e. Review Quizzes/RQs): 20% (10 RQs)
+- Programming assignments: 40%
+- Stepik Exercises (i.e. Review Quizzes/RQs): 20%
 - Lab Assignments: 10%
-- 30% Exams
-  - 10% Midterm Exam
-  - 20% Final Exam
+- Exams: 30%
+  - Midterm Exam: 10% 
+  - Final Exam: 20%
 - Extra Credit: 10% Lecture/Discussion Participation
 
 Letter grades will be assigned based on the following grading scale:
