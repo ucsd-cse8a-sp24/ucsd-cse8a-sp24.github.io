@@ -43,6 +43,10 @@ Videos (to watch **before** lecture):
 
 [Pre-Lecture 2](https://github.com/ucsd-cse8a-sp24/ucsd-cse8a-sp24.github.io/tree/main/_pre-lectures/lecture-02){:target="_blank"}
 
+## Handout
+
+<iframe src="https://drive.google.com/file/d/16jlTBYxTplNCWl4oGBZJSgioIn41g0RN/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Notes & Files from Live-Lecture
 
 [Lecture Notes](https://drive.google.com/drive/folders/12mIYImCEj7QstEc79Ux52pCesBqUdwTL?usp=sharing){:target="_blank"}
