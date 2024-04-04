@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 5
-name: Booleans
+name: Booleans & Conditionals
 released-on: "2024-04-10"
 videos:
     - title: "Booleans"
