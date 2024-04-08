@@ -5,7 +5,7 @@ doodle: "/doodle.png"
 ---
 
 # UCSD CSE 8A Spring 2024
-## Basic Data Structures and Object-Oriented Design
+## Introduction to Programming I
 
 ### Lecture, Discussion and Instructor Office Hours
 

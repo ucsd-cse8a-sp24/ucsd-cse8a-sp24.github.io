@@ -1,6 +1,6 @@
 ---
 layout: with-sidebar
-title: "UCSD CSE8A – Basic Data Structures and Object-Oriented Design"
+title: "UCSD CSE8A – Introduction to Programming I"
 ---
 # UCSD CSE 8A Spring 2024
 ## Asking Questions and Getting Help
