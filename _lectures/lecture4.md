@@ -39,7 +39,7 @@ Videos (to watch **before** lecture):
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/17aCg01dSJ-owpHuEIkXlgvxYiKMFpJrT/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
