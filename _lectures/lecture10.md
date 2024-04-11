@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 10
-name: While Loops, Break/Continue
+name: While, Break & Continue
 released-on: "2024-04-22"
 videos:
   - title: Importing Modules
