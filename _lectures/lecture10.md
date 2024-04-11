@@ -1,20 +1,23 @@
 ---
 layout: with-sidebar
 index: 10
-name: Categorizing Runtimes
+name: While Loops, Break, Continue
 released-on: "2024-04-22"
 videos:
-  - title: Counting Steps
-    url: 
-
+  - title: Importing Modules
+    url: https://drive.google.com/file/d/1A9ewhEB5D8ol-lrjJpiX3C8Fb4M0Egsp
+  - title: While Loops with Variable Updates
+    url: https://drive.google.com/file/d/1ADxr7ZNKPR_gh3De3nbHUiVJABmVd4-a
+  - title: Infinite Loop
+    url: https://drive.google.com/file/d/1AOa5eUKk_eI0G1oQ0XB5xvrBRZ8jXe7H
 ---
 
-## Problem Session 10 – Categorizing Runtimes
+## Problem Session 10 – While Loops, Break, Continue
 
 _{{ page.released-on }}_
 
-Optional readings (to be completed **before** problem session). 
-- [Stepik 6.2 - 6.7](https://stepik.org/lesson/717527/step/1?unit=718480){:target="_blank"}
+Readings (should be completed **before** lecture). 
+- [Stepik 3.3](https://stepik.org/lesson/567179/step/1?unit=561452){:target="_blank"}
 
 Videos (to watch **before** problem session):
 
@@ -34,4 +37,4 @@ Coming soon...
 
 ## Notes & Files from Live-Lecture
 
-[Lecture Notes](https://drive.google.com/drive/folders/13i4UKm45pIHa7zp4hQVIrPoE4ZyJrK1x?usp=sharing){:target="_blank"}
+[Lecture Notes](https://drive.google.com/drive/folders/1Gzzreu9WOf5O9E24YnGRv7bwIh07d-Jz?usp=sharing){:target="_blank"}
