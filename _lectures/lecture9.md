@@ -36,4 +36,4 @@ Coming soon...
 
 ## Notes & Files from Live-Lecture
 
-[Lecture Notes](https://drive.google.com/drive/folders/13i4UKm45pIHa7zp4hQVIrPoE4ZyJrK1x?usp=sharing){:target="_blank"}
+[Lecture Notes](https://drive.google.com/drive/folders/154Uz3Eq3QAfsIttLnzGJFjB4jxEyr41I?usp=sharing){:target="_blank"}
