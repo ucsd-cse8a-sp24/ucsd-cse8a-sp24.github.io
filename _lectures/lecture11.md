@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 11
-name: References/Objects, List Mutations
+name: References, List Mutations
 released-on: "2024-04-24"
 videos:
   - title: Fun with Turtles
