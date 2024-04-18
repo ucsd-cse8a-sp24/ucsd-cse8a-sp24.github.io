@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 12
-name: List Mutations and Methods
+name: List Mutations/Methods
 released-on: "2024-04-26"
 videos:
   - title: Modifying a List within a Function
