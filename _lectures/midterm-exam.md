@@ -20,7 +20,7 @@ Please fill out by Wedenesday, May 1st as we will be generating the seating char
 
 For those who have AFA exam accommodation letters, those are all done through the Triton Testing Center. Please sign up for an available time slot immediately to ensure you can find one that fits your schedule.
 
-We are allowing to bring a single 8 1/2" x 11" cheat/note sheet. Make sure to bring pen/pencil and a picture ID (student ID preferred).
+We are allowing everyone to bring a single 8 1/2" x 11" cheat/note sheet. Make sure to bring pen/pencil and a picture ID (student ID preferred).
 
 ## Midterm Review
 
