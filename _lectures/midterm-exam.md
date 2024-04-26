@@ -16,7 +16,7 @@ We will be having assigned seating. If you need a left handed seat or other non-
 
 - [Exam Seating](https://forms.gle/9yjYvVUoYqgwZVem6){:target="_blank"}
 
-Please fill out by Wedenesday, May 1st as we will be generating the seating chart on Thursday.
+Please fill out by Wednesday, May 1st as we will be generating the seating chart on Thursday.
 
 For those who have AFA exam accommodation letters, those are all done through the Triton Testing Center. Please sign up for an available time slot immediately to ensure you can find one that fits your schedule.
 
@@ -24,7 +24,7 @@ We are allowing everyone to bring a single 8 1/2" x 11" cheat/note sheet. Make s
 
 ## Midterm Review
 
-The discussions on Wedenesday, May 1st will be a midterm review. It's highly suggested that everyone attend at least one of them.
+The discussions on Wednesday, May 1st will be a midterm review. It's highly suggested that everyone attend at least one of them.
 
 ## Topics
 
