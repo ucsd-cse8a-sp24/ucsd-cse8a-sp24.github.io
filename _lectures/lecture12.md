@@ -16,7 +16,7 @@ videos:
 
 _{{ page.released-on }}_
 
-Optional readings (to be completed **before** problem session). 
+Readings (should be completed **before** lecture). 
 - [Stepik 4.2](https://stepik.org/lesson/567182/step/1?unit=561455){:target="_blank"}
 
 Videos (to watch **before** problem session):
@@ -33,7 +33,7 @@ Videos (to watch **before** problem session):
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/104VDk_VCxPUodQNw3kbdmnNjputkkBqc/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
