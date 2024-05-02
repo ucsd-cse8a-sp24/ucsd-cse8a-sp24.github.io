@@ -1,11 +1,11 @@
 ---
 layout: with-sidebar
 index: 17
-name: Nested For Loops and 2D Lists
+name: Nested For Loops, 2D Lists
 released-on: "2024-05-08"
 videos:
   - title: Testing
-    url: https://drive.google.com/file/d/1RW2lKlsdne_zieRGA8ASgiFpI9g29eVy/preview
+    url: https://drive.google.com/file/d/1RW2lKlsdne_zieRGA8ASgiFpI9g29eVy
 ---
 
 ## Problem Session 16 – Nested For Loops and 2D Lists
