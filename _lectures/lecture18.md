@@ -5,9 +5,9 @@ name: Image as 2D Lists
 released-on: "2024-05-13"
 videos:
   - title: Images as 2D Lists of Tuples
-    url:  https://drive.google.com/file/d/1_CrAhl-zCSXtnfj1yO9tF8QQol-iolln/preview
+    url:  https://drive.google.com/file/d/1_CrAhl-zCSXtnfj1yO9tF8QQol-iolln
   - title: Image Transformation
-    url:  https://drive.google.com/file/d/1_YDg1_FIwdPvMiVvna_x1RuqzNSY3Wgk/preview
+    url:  https://drive.google.com/file/d/1_YDg1_FIwdPvMiVvna_x1RuqzNSY3Wgk
 ---
 
 ## Problem Session 18 – Image as 2D Lists, Transformations
