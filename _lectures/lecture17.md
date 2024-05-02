@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 18
-name: Nested For Loops, Images, Tuples
+name: Images, Tuples
 released-on: "2024-05-10"
 videos:
   - title: Variable Updates in Nested For Loops
