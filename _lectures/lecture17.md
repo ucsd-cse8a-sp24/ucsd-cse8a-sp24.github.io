@@ -5,11 +5,11 @@ name: Nested For Loops, Images, Tuples
 released-on: "2024-05-10"
 videos:
   - title: Variable Updates in Nested For Loops
-    url: https://drive.google.com/file/d/1ZlbhZHhPX-v33LuF0VFTCFSkqHudr_SB/preview
+    url: https://drive.google.com/file/d/1ZlbhZHhPX-v33LuF0VFTCFSkqHudr_SB
   - title: Basics of Images
-    url: https://drive.google.com/file/d/1Zu4kiIGOi87B2NNISbkVf0oId-dgXrXD/preview
+    url: https://drive.google.com/file/d/1Zu4kiIGOi87B2NNISbkVf0oId-dgXrXD
   - title: Tuples
-    url: https://drive.google.com/file/d/1ZxxLaU58CjuK1TMviWZPq5yyKtlKSLqG/preview
+    url: https://drive.google.com/file/d/1ZxxLaU58CjuK1TMviWZPq5yyKtlKSLqG
 ---
 
 ## Problem Session 17 – Updates in Nested For Loops, Images, Tuples
