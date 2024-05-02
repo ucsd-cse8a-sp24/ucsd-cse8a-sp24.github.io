@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 17
-name: Nested For Loops, 2D Lists
+name: Nested For Loops/2D Lists
 released-on: "2024-05-08"
 videos:
   - title: Testing
