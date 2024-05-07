@@ -4,8 +4,14 @@ index: 17
 name: Nested For Loops/2D Lists
 released-on: "2024-05-08"
 videos:
-  - title: Testing
-    url: https://drive.google.com/file/d/1RW2lKlsdne_zieRGA8ASgiFpI9g29eVy
+  - title: A Little Bit of Slope
+    url: https://drive.google.com/file/d/1YJM0HdlidnTwbhNRca3FDcfBOV4vxiNk
+  - title: Nested For Loops
+    url: https://drive.google.com/file/d/1Yw_R1HokixlzTZZeoWsIg7FuaHn73zJd
+  - title: 2D Lists
+    url: https://drive.google.com/file/d/1Z4WJabv8gXuw8mVpoiMKXmKqBlzThvWg
+  - title: Accessing 2D Lists Using Nested For Loops
+    url: https://drive.google.com/file/d/1ZLvksJx4RBJM9DVuUI4kTYSJOQ08BxE1
 ---
 
 ## Problem Session 16 – Nested For Loops and 2D Lists
