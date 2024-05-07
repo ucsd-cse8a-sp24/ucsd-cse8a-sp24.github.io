@@ -8,7 +8,7 @@ videos:
     url: https://drive.google.com/file/d/1lxk531JCju8DeWARJpzNZXTE198GPY6h
 ---
 
-## Problem Session 20 – Lecture: More Transformations and Modifying Images
+## Problem Session 20 – More Transformations and Modifying Images
 
 _{{ page.released-on }}_
 
