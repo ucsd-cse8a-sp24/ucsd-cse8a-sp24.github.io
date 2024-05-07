@@ -1,8 +1,8 @@
 ---
 layout: with-sidebar
 index: 20
-name: Image Transformations using Functions
-released-on: "2024-05-13"
+name: Image Transformations
+released-on: "2024-05-15"
 videos:
   - title: Image Transformation - Part 1
     url: https://drive.google.com/file/d/1kd5ZeIF9lpczwJwsjDRGeJVsI3TbuRmo
