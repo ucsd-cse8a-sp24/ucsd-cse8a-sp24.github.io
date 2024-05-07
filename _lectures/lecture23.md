@@ -28,7 +28,7 @@ Videos (to watch **before** problem session):
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
 
-{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="{{ video.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 {% endfor %}
 
 ## Notes & Files from Pre-Lecture Videos
