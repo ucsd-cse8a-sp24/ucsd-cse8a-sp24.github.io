@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 22
-name: Modifying Images in Functions
+name: Images in Functions
 released-on: "2024-05-20"
 videos:
   - title: Modifying Images in a Function
