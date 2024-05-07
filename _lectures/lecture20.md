@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 21
 name: Modifying Images
-released-on: "2024-05-15"
+released-on: "2024-05-17"
 videos:
   - title: Modifying Images
     url: https://drive.google.com/file/d/1lxk531JCju8DeWARJpzNZXTE198GPY6h
