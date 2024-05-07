@@ -4,7 +4,7 @@ index: 25
 name: Dictionary Example
 released-on: "2024-05-27"
 videos:
-  - title: Live Coding: Cookies
+  - title: Cookies
     url: https://drive.google.com/file/d/1zWcC45CJ_XvkrHwQ34zlCcuMdzH0pxuG
 ---
 
