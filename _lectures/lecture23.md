@@ -21,7 +21,6 @@ Readings (should be completed **before** lecture).
 
 [Famous Failures](https://www.youtube.com/watch?v=zLYECIjmnQs)
 
-
 Videos (to watch **before** problem session):
 
 {% for video in page.videos %}
