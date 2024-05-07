@@ -1,7 +1,7 @@
 ---
 layout: with-sidebar
 index: 25
-name: Dictionary Example (Cookies)
+name: Dictionary Example
 released-on: "2024-05-27"
 videos:
   - title: Live Coding: Cookies
