@@ -2,10 +2,12 @@
 layout: with-sidebar
 index: 25
 name: Dictionary Example
-released-on: "2024-05-27"
+released-on: "2024-05-29"
 videos:
   - title: Cookies
     url: https://drive.google.com/file/d/1zWcC45CJ_XvkrHwQ34zlCcuMdzH0pxuG
+  - title: Cookies (Continued)
+    url: https://drive.google.com/file/d/132ICexec1PYpGhzU-8n91bEIMVrEivvF
 ---
 
 ## Problem Session 24 – Dictionary Example (Cookies)
