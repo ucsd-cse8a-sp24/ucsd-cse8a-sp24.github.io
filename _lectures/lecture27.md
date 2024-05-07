@@ -5,7 +5,7 @@ name: Final Exam Review
 released-on: "2024-06-05"
 ---
 
-## Problem Session 26 – Final Exam Review
+## Problem Session 27 – Final Exam Review
 
 _{{ page.released-on }}_
 
