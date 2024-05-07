@@ -20,7 +20,7 @@ Readings (should be completed **before** lecture).
 - [Stepik 9.1](https://stepik.org/lesson/567199/step/1?unit=561472){:target="_blank"}
 
 [Famous Failures](https://www.youtube.com/watch?v=zLYECIjmnQs)
-<iframe width="640" height="393" src="https://www.youtube.com/embed/zLYECIjmnQs?si=UpbWWXeV2iCiuGJ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Videos (to watch **before** problem session):
 
