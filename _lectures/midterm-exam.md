@@ -63,4 +63,6 @@ We do not have an answer key for past exams. We suggest working with other stude
 
 ## Exam files
 
-Posted after exam grades have been released
+- [Midterm Exam - Check/TTC](https://drive.google.com/file/d/1lJX-UCgMMgNsR1Fz-QwAkc5N5EzY4PfJ/view?usp=drive_link){:target="_blank"}
+- [Midterm Exam - Star](https://drive.google.com/file/d/11UNqa_xrbp4hnsWvbhgF79npOedC_DrT/view?usp=drive_link){:target="_blank"}
+- [Midterm Exam - Smile](https://drive.google.com/file/d/1TAu0NOEy9qqewJ8hdCD3PdSK62PiDs4-/view?usp=drive_link){:target="_blank"}
