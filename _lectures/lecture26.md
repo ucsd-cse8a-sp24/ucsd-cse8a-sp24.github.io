@@ -35,7 +35,7 @@ Videos (to watch **before** problem session):
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1cioXZ_Odu31tfZrch0oP5S1cyLwi8aZY/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
