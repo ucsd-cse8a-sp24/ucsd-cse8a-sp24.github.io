@@ -10,13 +10,15 @@ videos:
 
 _{{ page.released-on }}_
 
-The Final Exam is on Monday, June 12th 8am - 11am. Room will be announced in Week 10.
+The Final Exam is on Wednesday, June 12th, 8am - 11am. Still waiting for confirmation, but we should be in the same room as lecture (WLH 2001).
 
 We will be having assigned seating and will post them on Sunday before the exam.
 
 For those who have AFA exam accommodation letters, those are all done through the Triton Testing Center. Please sign up for an available time slot immediately to ensure you can find one that fits your schedule.
 
 We are allowing everyone to bring a single 8 1/2" x 11" cheat/note sheet. The cheat sheet will be collected. If you want to get it back after the exam, please put your name and PID on it. Instructions on where to pick them up will be provided after final grades have been posted. Make sure to bring pen/pencil and a picture ID (student ID preferred). 
+
+As stated in the syllabus: No makeup exams will be conducted! No incompletes will be given.
 
 ## Topics
 
