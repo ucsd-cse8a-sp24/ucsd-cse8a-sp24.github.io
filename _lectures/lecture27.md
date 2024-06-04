@@ -14,7 +14,7 @@ Readings (should be completed **before** lecture).
 
 ## Handout
 
-Coming soon...
+<iframe src="https://drive.google.com/file/d/1d1vjUXnVXxbPb4F4kubI5hQQ5iBhqQ2T/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Notes & Files from Live-Lecture
 
