@@ -45,4 +45,6 @@ We do not have an answer key for past exams. We suggest working with other stude
 
 ## Exam files
 
-Posted after exam grades have been released
+- [Final Exam - Check](https://drive.google.com/file/d/1-vlF9aIKHf8s1tNRiF9IOm6uoB-622LB/view?usp=sharing){:target="_blank"}
+- [Final Exam - Star](https://drive.google.com/file/d/10FbPI1d7cRE0q0I_S0QwCkGQAK87Ejso/view?usp=sharing){:target="_blank"}
+- [Final Exam - Smile/TTC](https://drive.google.com/file/d/1oRcBkaWqNonQ3_p-kUWcipV8JGQJHNy-/view?usp=sharing){:target="_blank"}
